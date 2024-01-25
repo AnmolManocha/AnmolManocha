@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Anmol Manocha</h2>
-<h4 align="center">I'm a Student and Developer!</h4>
+<h4 align="center">I'm a Developer!</h4>
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
